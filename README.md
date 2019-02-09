@@ -8,4 +8,6 @@ Use Case: Find out which representative succeeded in highest total sales in each
 Note - total sales is not given in the dataset.Calculate it using Tableau.
 ### Files: Located in folder 2
 ## Dataset 3: Time Series, Aggregation and Filters.
+Use Case: Prepare visualization to find out how the unemployment is changing through the years aggregated on the basis of month of the year and age group. Also add a gender filter to separate on the basis of male vs female.
+### Files: Located in folder 3
 
