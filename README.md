@@ -14,5 +14,9 @@ Use Case: Prepare visualization to find out how the unemployment is changing thr
 Use Case: Create a pictorial view of the trend of profit margins of Amazing Mart Store across each state in Europe along the years pertaining to each customer. Add the functionality of years as filters.
 ### Files: Located in folder 4
 ## Dataset 5: Joining and Blending Data; Dual Axis Charts
-Use Case: 
+Use Case: Show the performance of the company along the years in each category depicting if the target has been achieved or not and if yes then by how much.
+### Files: Located in folder 5
+## Dataset 6: Advanced dashboards and Story telling
+Use Case:
+### Files: Located in folder 6
 
