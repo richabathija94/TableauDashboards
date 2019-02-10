@@ -11,4 +11,8 @@ Note - total sales is not given in the dataset.Calculate it using Tableau.
 Use Case: Prepare visualization to find out how the unemployment is changing through the years aggregated on the basis of month of the year and age group. Also add a gender filter to separate on the basis of male vs female.
 ### Files: Located in folder 3
 ## Dataset 4: Maps, Joins and Scatterplots
+Use Case: Create a pictorial view of the trend of profit margins of Amazing Mart Store across each state in Europe along the years pertaining to each customer. Add the functionality of years as filters.
+### Files: Located in folder 4
+## Dataset 5: Joining and Blending Data; Dual Axis Charts
+Use Case: 
 
