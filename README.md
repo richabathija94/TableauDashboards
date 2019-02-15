@@ -17,7 +17,7 @@ Use Case: Create a pictorial view of the trend of profit margins of Amazing Mart
 Use Case: Show the performance of the company along the years in each category depicting if the target has been achieved or not and if yes then by how much.
 ### Files: Located in folder 5
 ## Dataset 6: Advanced dashboards and Story telling
-Use Case:
+Created a Tableau Dashboard and a Story to give a visual of the customer base of a UK Bank. I customised the Dashboard and the story in such a way that person could get a clear picture of it according to region, distribution by bank balance, distribution by age, gender and age. By hovering on any of the parameters you come to know the respective changes in the other parameters as well.
 ### Files: Located in folder 6
 ## Dataset 7: Advanced Data Preparation
 Use Case:
