@@ -19,4 +19,8 @@ Use Case: Show the performance of the company along the years in each category d
 ## Dataset 6: Advanced dashboards and Story telling
 Use Case:
 ### Files: Located in folder 6
+## Dataset 7: Advanced Data Preparation
+Use Case:
+### Files: Located in folder 7
+
 
