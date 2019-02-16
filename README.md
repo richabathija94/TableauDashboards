@@ -43,8 +43,8 @@ You have been assigned two analytics tasks:
 **Outcome:** Arrived to the fact that the revenue is directly related to the popuation. The business is heavily customer oriented.
 * Ran Linear Regression model on this data
 * Created a visualization of only the 10 newly opened stores
-**Outcome:** Even though the revenue is high currently the trend line predicts that the top three stores in the blue cluster might not contribute to a higher revenue. On the other hand the stores in the orange cluster did not generate as high revenue as the blue clusters currently, but were predicted greater return than other stores
-**My Recommendation:** My Recommendation to the company would be to continue investing in the stores depicted by the orange cluster and completely shut down the store depicted by the pink cluster (as it is clearly running into losses)
+**Outcome:** Even though the revenue is high currently the trend line predicts that the top three stores in the orange cluster might not contribute to a higher revenue. On the other hand the stores in the blue cluster did not generate as high revenue as the orange clusters currently, but were predicted greater return than other stores
+**My Recommendation:** My Recommendation to the company would be to continue investing in the stores depicted by the blue cluster and completely shut down the store depicted by the pink cluster (as it is clearly running into losses)
 ### Files: Located in folder 8
 
 
