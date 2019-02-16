@@ -20,7 +20,10 @@ Use Case: Show the performance of the company along the years in each category d
 Created a Tableau Dashboard and a Story to give a visual of the customer base of a UK Bank. I customised the Dashboard and the story in such a way that person could get a clear picture of it according to region, distribution by bank balance, distribution by age, gender and age. By hovering on any of the parameters you come to know the respective changes in the other parameters as well.
 ### Files: Located in folder 6
 ## Dataset 7: Advanced Data Preparation
-This Dataset is about the number of personal vehicles sold in different parts of the world. Using Tableau's Data Interpreter, I first converted the data into a consumable form. Using the Pivot feature of Tableau I then converted the table into a more readable format. Created a Dashboard to give a pictorial representation of the number of vehicles sold in each region as a percentage of the total
+This Dataset is about the number of personal vehicles sold in different parts of the world. Using Tableau's Data Interpreter, I first converted the data into a consumable form. Using the Pivot feature of Tableau I then converted the table into a more readable format. Created a Dashboard to give a pictorial representation of the number of vehicles sold in each region as a percentage of the total and number of vehicles sold as per region.
 ### Files: Located in folder 7
+## Dataset 8: Exploring Tableau 10 New Features
+
+### Files: Located in folder 8
 
 
