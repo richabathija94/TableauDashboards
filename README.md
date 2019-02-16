@@ -23,7 +23,16 @@ Created a Tableau Dashboard and a Story to give a visual of the customer base of
 This Dataset is about the number of personal vehicles sold in different parts of the world. Using Tableau's Data Interpreter, I first converted the data into a consumable form. Using the Pivot feature of Tableau I then converted the table into a more readable format. Created a Dashboard to give a pictorial representation of the number of vehicles sold in each region as a percentage of the total and number of vehicles sold as per region.
 ### Files: Located in folder 7
 ## Dataset 8: Exploring Tableau 10 New Features
+Challenge: You are a data scientist working for a laundry pick up services startup. This is a relatively small company and cannot compete with the big players in the major cities. The company's strategy is to build a vaast network in smaller cities.
 
+The company already had a strong presence in 140 locations and recently opened stores in 10 new cities. Additionally the company has two separate sales regions. 
+
+You have been assigned two analytics tasks:
+1) Identify which of the two sales regions is performing better 
+  * AVG Revenue Per City
+  * AVG Marketing spend per city
+  * AVG ROMI per city (revenue/marketing spend)
+2) Identify which of the 10 new locations has the best potential for the company to invest more funds into marketing.
 ### Files: Located in folder 8
 
 
